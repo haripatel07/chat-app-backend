@@ -121,10 +121,6 @@ chat-app-backend/
 └── README.md
 ```
 
-## Deployment
-
-This application can be deployed on platforms like Heroku, AWS, or DigitalOcean. Make sure to configure environment variables for production databases and set up Redis accordingly.
-
 ## Contributing
 
 1. Fork the repository
